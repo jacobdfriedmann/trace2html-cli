@@ -1,0 +1,15 @@
+{
+  "name": "trace2html-cli",
+  "version": "0.0.1",
+  "description": "CLI Wrapper around Catapult trace-viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Friedmann",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "trace2html": "index.js"
+  }
+}
