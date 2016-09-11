@@ -1,6 +1,6 @@
 {
   "name": "trace2html-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI Wrapper around Catapult trace-viewer",
   "main": "index.js",
   "scripts": {
